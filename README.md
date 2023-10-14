@@ -35,7 +35,7 @@ You can get it by going to [your profile page](https://shipyard.khulnasoft.com/p
 shipyard set token
 ```
 
-You can get in touch with us at [support@shipyard.khulnasoft.com](mailto:support@shipyard.khulnasoft.com) if you would like to enable API
+You can get in touch with us at [support@khulnasoft.com ](mailto:support@khulnasoft.com ) if you would like to enable API
 access for your org. If you have any other questions, feel free to join
 our community [Slack](https://join.slack.com/t/shipyardcommunity/shared_invite/zt-x830cx39-BuiQKZwvhG7zGRTXAvojVQ).
 
