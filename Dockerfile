@@ -16,5 +16,5 @@ ENV GIT_COMMIT=$git_commit
 RUN CGO_ENABLED=0 go build -buildvcs=false -o /shipyard \
     -ldflags "-s -w -X github.com/khulnasoft-lab/shipyard-cli/version.Version=${VERSION} -X github.com/khulnasoft-lab/shipyard-cli/version.GitCommit=${GIT_COMMIT}"
 
-FROM alpine:3.18
+FROM alpine:3.19
 COPY --from=build /shipyard /usr/local/bin
